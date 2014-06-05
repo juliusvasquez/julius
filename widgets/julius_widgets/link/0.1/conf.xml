@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.julius.widgets.LinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Text Link</label>
+  <description>text link</description>
+</widget>

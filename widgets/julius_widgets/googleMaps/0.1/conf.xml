@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.julius.widgets.GoogleMapsWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Map of Google</label>
+  <description>map of google</description>
+</widget>
